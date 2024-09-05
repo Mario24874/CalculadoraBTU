@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Footer from './components/ui/Footer'; // Ajusta la ruta de importación
 import './styles.css';
 
 interface BtuCalculatorProps {}
