@@ -100,8 +100,7 @@ const BtuCalculator: React.FC<BtuCalculatorProps> = () => {
           <div className="result">
             <p className="result-text">Resultado: <span className="result-value">{btuResult} kBTU</span></p>
           </div>
-        )}
-        <Footer /> {/* Incluye el pie de página */}
+        )}        
       </div>
     </div>
   );
