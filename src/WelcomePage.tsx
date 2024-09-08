@@ -7,6 +7,7 @@ const WelcomePage: React.FC = () => {
   return (
     <div className="welcome-background">
       <div className="welcome-container">
+        <img src="/CalculadoraBTU.png" alt="Calculadora BTU" className="welcome-image" />
         <h1 className="welcome-title">Bienvenido a la Calculadora de BTU</h1>
         <p className="welcome-description">
           Esta aplicación te ayudará a calcular los BTU necesarios para climatizar tu espacio de manera eficiente.
@@ -14,7 +15,7 @@ const WelcomePage: React.FC = () => {
         <Link to="/calculator" className="start-button">
           Empezar
         </Link>
-        <Footer /> {/* Incluye el pie de página */}
+        <Footer /> 
       </div>
     </div>
   );

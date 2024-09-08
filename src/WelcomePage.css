@@ -35,3 +35,11 @@
 .start-button:hover {
   background-color: #0056b3;
 }
+
+.welcome-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 2rem; /* Ajusta el margen inferior según sea necesario */
+}
