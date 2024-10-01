@@ -1,5 +1,5 @@
 .calculator-background {
-  background: linear-gradient(135deg, #006699, #001a33);
+  background-image: url('./images/fondoClima.png');
   height: 100vh;
   display: flex;
   align-items: center;
@@ -7,7 +7,7 @@
 }
 
 .container {
-  background-color: #ffffff8e;
+  background-color: #ffffffa1;
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -18,6 +18,7 @@
 .title {
   font-size: 1.5rem;
   color: #333;
+  margin-top: 1rem;
   margin-bottom: 1.5rem;
   text-align: center;
 }
@@ -29,7 +30,7 @@
 .input-group label {
   display: block;
   margin-bottom: 0.5rem;
-  color: #555;
+  color: #363434;
 }
 
 .input-group input {
@@ -62,7 +63,7 @@
 }
 
 .clear-btn {
-  background-color: #f4f4f4;
+  background-color: #becaf1;
   color: #333;
 }
 
@@ -72,6 +73,7 @@
 
 .result {
   margin-top: 1.5rem;
+  margin-bottom: 1rem;
   text-align: center;
   animation: fadeIn 0.5s ease;
 }
@@ -82,8 +84,10 @@
 }
 
 .result-value {
+  background-color: #007bff;
+  border-radius: 5px;
   font-size: 2rem;
-  color: #007bff;
+  color: #010e1b;
   font-weight: bold;
 }
 

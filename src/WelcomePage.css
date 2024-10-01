@@ -1,5 +1,5 @@
 .welcome-background {
-  background: linear-gradient(135deg, #0099cc, #003366);
+  background-image: url('./images/fondoClima.png');
   height: 100vh;
   display: flex;
   align-items: center;
@@ -8,17 +8,19 @@
 
 .welcome-container {
   text-align: center;
-  color: #fff;
+  color: rgb(66, 65, 65)545;
 }
 
 .welcome-title {
   font-size: 2.5rem;
   margin-bottom: 1rem;
+  width: 90%;
 }
 
 .welcome-description {
   font-size: 1.25rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
+  width: 90%;
 }
 
 .start-button {
@@ -39,7 +41,8 @@
 .welcome-image {
   display: block;
   margin: 0 auto;
-  max-width: 50%;
+  max-width: 30%;
   height: auto;
   margin-bottom: 2rem; /* Ajusta el margen inferior según sea necesario */
+  border-radius: 50%;
 }

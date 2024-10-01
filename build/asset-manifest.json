@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0e84b1d.css",
+    "main.css": "/static/css/main.fb87b241.css",
     "main.js": "/static/js/main.acdcf238.js",
+    "static/media/fondoClima.png": "/static/media/fondoClima.4495913f2eb8cb77a58a.png",
     "index.html": "/index.html",
-    "main.c0e84b1d.css.map": "/static/css/main.c0e84b1d.css.map",
+    "main.fb87b241.css.map": "/static/css/main.fb87b241.css.map",
     "main.acdcf238.js.map": "/static/js/main.acdcf238.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0e84b1d.css",
+    "static/css/main.fb87b241.css",
     "static/js/main.acdcf238.js"
   ]
 }
