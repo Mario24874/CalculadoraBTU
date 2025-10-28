@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "0bf16d05-5e9f-415d-8a1c-bab9cce5c144"
+      }
+    },
+    "android": {
+      "package": "com.mario24874.micalculadorabtu"
+    }
+  }
+}
