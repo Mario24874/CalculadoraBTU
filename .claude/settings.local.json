@@ -7,7 +7,11 @@
       "Bash(npx tailwindcss init)",
       "Bash(npm start)",
       "Bash(cat:*)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(yarn install)",
+      "Bash(yarn:*)"
     ],
     "deny": [],
     "ask": []
